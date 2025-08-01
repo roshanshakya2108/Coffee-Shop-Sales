@@ -2,7 +2,7 @@
 
 This repository contains an interactive Excel dashboard that visualizes key sales metrics for a coffee shop. The dashboard presents insights into sales trends, customer footfall, product performance, and ordering behavior.
 
-![Coffee Shop Sales Dashboard](./dc1cc6a9-0f8e-42c9-b36c-54e6fd471718.png)
+![Coffee Shop Sales Dashboard](https://github.com/roshanshakya2108/Coffee-Shop-Sales/blob/main/image.png)
 
 ---
 
