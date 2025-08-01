@@ -45,17 +45,18 @@ This repository contains an interactive Excel dashboard that visualizes key sale
 
 ## 📁 Files Included
 
-- `Coffee_Shop_Sales_Dashboard.xlsx` (coming soon)
-- `dc1cc6a9-0f8e-42c9-b36c-54e6fd471718.png` – Dashboard snapshot
+- `Coffee_Shop_Sales_Dashboard.xlsx` 
+- `image.png` – Dashboard snapshot
 - `README.md` – Documentation
 
 ---
 
 ## 🛠 Tools Used
 
-- **Microsoft Excel**: Data processing, chart creation, and dashboard design
-- **Pivot Tables and Charts**: Used extensively for interactive visuals
-- **Slicers**: Filters based on Month and Day
+- **Microsoft Excel**: Core platform for dashboard development
+- **Pivot Tables and Charts**: For summarizing and visualizing data
+- **Power Query**: For connecting, cleaning, and transforming raw data
+- **Slicers**: For interactive filtering by Month and Day
 
 ---
 
